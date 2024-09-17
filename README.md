@@ -5,3 +5,4 @@ This repository contains codes I used to explore the amazing world of Generative
 1. https://huggingface.co/blog/gemma-peft
 2. https://llama.meta.com/docs/how-to-guides/fine-tuning/
 3. Finetuning-LLM by krishnaik06
+4. rag-from-scratch by langchain-ai
